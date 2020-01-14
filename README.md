@@ -5,4 +5,4 @@
 Entre no servidor Atlanta: 
 
 
-<a href="https://discord.gg/9SPUxSn" target="_blank"><img src="https://i.imgur.com/9ujJljS.png" alt="Atlanta - Convite"></a>
+<a href="https://discord.gg/9SPUxSn" target="_blank"><img src="https://i.imgur.com/9ujJljS.png" alt="Atlanta - Convite"></img></a>
