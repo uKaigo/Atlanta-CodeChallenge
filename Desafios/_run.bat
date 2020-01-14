@@ -6,9 +6,10 @@ cls
 if ERRORLEVEL 1 goto NOPY
 :start 
 cls
+set number=""
 title CodeChallenge - Atlanta by Kaigo
 set /p number="Digite o número do desafio (3 algarismos/000: Sair): "
-if number 000 exit
+if %number% == 000 exit
 cls
 title CodeChallenge - Atlanta by Kaigo [Desafio#%number%]
 python Desafio#%number%.py
@@ -24,5 +25,7 @@ pause
 goto start
 :NOPY 
 title CodeChallenge - Atlanta by Kaigo [ERROR]
-echo "Python é necessário para prosseguir.
+echo Python é necessário para prosseguir.
+pause
+start https://www.python.org/downloads/
 exit
