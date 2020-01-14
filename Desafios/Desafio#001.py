@@ -5,7 +5,7 @@ ele então decidiu escrever um algoritmo para calcular números primos. Para com
 ele gostaria de saber de todos os números de 1 até 10000 quais eram primos. Sua tarefa 
 é escrever um programa que liste todos os números primos de 1 até 10000.
 """
-# Por Kaigo.
+# Por Kaigo. Ganho de 145 pontos
 
 
 # Todos os números primos obtidos
