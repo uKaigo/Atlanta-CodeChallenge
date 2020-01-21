@@ -4,5 +4,4 @@
 
 Entre no servidor Atlanta: 
 
-
-404 Not Found
+<img src="https://i.imgur.com/ioNeROg.png">
