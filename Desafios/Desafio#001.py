@@ -12,7 +12,7 @@ ele gostaria de saber de todos os números de 1 até 10000 quais eram primos. Su
 primos = []
 
 # Pega todos os números entre 1 e 10000 (para determinar se é primo ou não)
-for number in range (1, 10000):
+for number in range (2, 10000):
     div = False # Necessário para resetar o estado
     # Pega todos os números até o número atual (para testar divisão)
     for inter in range(2, number-1): # Se houver alguma divisão aqui, o número não é primo, inter = intermediario
